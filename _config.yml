@@ -1,0 +1,23 @@
+color:
+  lightness: 0.5281036350708697
+  brandColors:
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
+  saturation: 0.23253591433924994
+  brandStrength: 0.6771519891166017
+  rhythmicContrast: 0.23780387435988612
+name: evsmiles
+layout_spectrum: 0.07294932100921869
+typography_spectrum: 0.13690769067034125
+content: []
+github: true
+content_rating:
+  adult: false
+url: 'https://grin.evsmiles.com/'
+author:
+  name: Mike Horwath
+  email: drechsau@geeks.org
+  url: 'https://www.geekandi.com/'
